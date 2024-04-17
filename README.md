@@ -19,5 +19,5 @@ Oracle JPA Programmes in programme execution order:
 3. SBS-Oracle-starter-v2-PagingAndSorting
 4. SBS-Oracle-starter-v2-FinderMethods
 5. SBS-Oracle-starter-v2-DynamicScalarOp
-
+6. SBS-Oracle-starter-v2-QueryMethods
 

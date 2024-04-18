@@ -9,6 +9,7 @@ Mysql JPA Programmes in programme execution order:
 4. SBS-Mysql-starter-v2-FinderMethods
 5. SBS-Mysql-starter-v2-DynamicScalarOp
 6. SBS-Mysql-starter-v2-QueryMethods
+7. SBS-Mysql-starter-v2-PlSqlEntityManager
 
 ------------------------------------------------------
 Oracle JPA Programmes in programme execution order:
@@ -20,4 +21,4 @@ Oracle JPA Programmes in programme execution order:
 4. SBS-Oracle-starter-v2-FinderMethods
 5. SBS-Oracle-starter-v2-DynamicScalarOp
 6. SBS-Oracle-starter-v2-QueryMethods
-
+7. SBS-Oracle-starter-v2-PlSqlEntityManager
